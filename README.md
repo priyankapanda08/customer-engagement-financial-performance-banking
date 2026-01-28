@@ -39,8 +39,6 @@ The project demonstrates an end-to-end data analytics workflow, combining Excel-
 - Account types (Savings, Checking, Foreign Currency)
 - Fees and engagement-related metrics
 
-> ⚠️ Note: Due to file size limitations, the dataset is not uploaded directly to this repository.
-
 ---
 
 ## 🛠 Tools & Technologies Used
